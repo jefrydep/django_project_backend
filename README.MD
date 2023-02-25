@@ -10,5 +10,10 @@
 
 2. asignar nombre al projecto
 
-- django-admin startproject <nameProject> . 
+- django-admin startproject nameProject .
+
+## COMANDO PARA LEVANTAR EL SERVIDOR
 - python manage.py runserver
+
+3. comand to change the SERVER PORT
+- python manage.py runserver 3000
