@@ -17,3 +17,10 @@
 
 3. comand to change the SERVER PORT
 - python manage.py runserver 3000
+
+
+- python manage.py startapp blog
+- python manage.py startapp store
+- python manage.py startapp xname
+
+4. creamos un nuevo modulo llamado urls.py dentro de myapp
