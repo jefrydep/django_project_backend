@@ -28,3 +28,5 @@
 - python manage.py startapp xname
 
 4. creamos un nuevo modulo llamado urls.py dentro de myapp
+
+- descargar dbbrowser for sqlite
