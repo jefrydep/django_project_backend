@@ -30,3 +30,19 @@
 4. creamos un nuevo modulo llamado urls.py dentro de myapp
 
 - descargar dbbrowser for sqlite
+
+5. Migraciones 
+6. python manage.py makemigrations
+7. python manage.py migrate
+
+- en setting intalleds app agregra 'myapp'
+
+python manage.py shell
+from myapp.models import name,name
+creamos una variable p
+p = PROJECT(name='Aplicaicon')
+p.save , para guardar en la base de datos
+## comands 
+Project.objects.all()
+Project.objects.get(id=1)
+project.objects.get(name= 'name')
