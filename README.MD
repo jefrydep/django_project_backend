@@ -6,7 +6,7 @@
 - ejecute virtualenv venv
 - ejecutar .\venv\Scripts\activate
 - open project en vs code 
-
+- ctrl ship p select interpreter
 - ejecute pip install django
 
 2. asignar nombre al projecto
