@@ -2,6 +2,7 @@
 
 1. PASOS PARA INSTALARA DJANGO
 - open cmd and go to the path of the directory
+- pip install virtual env
 - ejecute virtualenv venv
 - ejecutar .\venv\Scripts\activate
 - open project en vs code 
