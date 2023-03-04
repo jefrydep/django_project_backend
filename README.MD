@@ -46,3 +46,6 @@ p.save , para guardar en la base de datos
 Project.objects.all()
 Project.objects.get(id=1)
 project.objects.get(name= 'name')
+
+### create superuser
+- python manage.py createsuperuser
