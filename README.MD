@@ -7,6 +7,9 @@
 - ejecutar .\venv\Scripts\activate
 - open project en vs code 
 - ctrl ship p select interpreter
+- para los que en windows 10 y 11 tengan problemas al ejecutar el entorno virtual deben activar la ejecucion de scripts en powershell con el comando: Get-ExecutionPolicy si les devuelve «Restricted» deben modificar con el siguiente comando: Set-ExecutionPolicy Unrestricted, todo esto debe ser ejecutado con permiso de administrador
+
+
 - ejecute pip install django
 
 2. asignar nombre al projecto
